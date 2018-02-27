@@ -9,3 +9,8 @@ hope
 * 精彩绝伦的CSS (第 4.6 章)
 * ES6 标准入门
 * 版本回滚比啥都重要
+
+
+#### 技术
+-------
+1. Node.js 实战  by Mike Cantelon , TJ Holowaychuk (作者) 吴海星 (译者) 2018年02月
