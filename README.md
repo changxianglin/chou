@@ -15,7 +15,7 @@
 1. Node.js 实战,  by Mike Cantelon , TJ Holowaychuk (作者) 吴海星 (译者), 2018年02月
 1. JavaScript 设计模式与开发实践, 曾探@著, 2018年03月
 ## 历史
-
+1. 大宋革新, 易中天, 2018年03月
 ## 经济
 
 ## 文学
