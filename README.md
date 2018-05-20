@@ -15,6 +15,7 @@
 1. Node.js 实战,  by Mike Cantelon , TJ Holowaychuk (作者) 吴海星 (译者), 2018年02月
 1. JavaScript 设计模式与开发实践, 曾探@著, 2018年03月
 1. JavaScript 高级程序设计，Nicholas C.Zakas(作者), 曹力&李松峰（译）， 2018年04月
+1. JavaScript 框架设计 (第 2 版)，师徒正美@编著，2018年05月
 ## 历史
 1. 大宋革新, 易中天, 2018年03月
 1. 流血的仕途(上), 曹昇, 2018年03月
